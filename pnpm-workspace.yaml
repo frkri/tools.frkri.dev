@@ -1,2 +1,6 @@
-onlyBuiltDependencies:
-  - esbuild
+allowBuilds:
+  esbuild: true
+  workerd: true
+minimumReleaseAgeExclude:
+  - '@typescript-eslint/types@8.68.0'
+  - picomatch@4.0.7
