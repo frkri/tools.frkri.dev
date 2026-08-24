@@ -1,7 +1,8 @@
 <script lang="ts">
 	const tools = [
 		{ name: 'sendme', link: 'https://www.iroh.computer/sendme' },
-		{ name: 'cobalt', link: 'https://cobalt.tools/' }
+		{ name: 'cobalt', link: 'https://cobalt.tools/' },
+		{ name: 'svelte.dev', link: 'https://svelte.dev/' }
 	];
 </script>
 
